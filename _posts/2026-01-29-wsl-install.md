@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "WSL と Ubuntu のインストール"
+title:  "ソフトウェア開発環境構築の起点としての WSL と Ubuntu のインストール"
 date:   2026-02-04
 categories: Linux
 tags: Linux WSL

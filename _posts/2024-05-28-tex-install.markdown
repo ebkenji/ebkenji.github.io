@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "TeX の Windows PC へのインストール"
+title:  "文書作成ソフトウェア TeX の Windows PC へのインストール"
 date:   2024-05-28
 categories: TeX
 tags: TeX
